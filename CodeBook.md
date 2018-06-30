@@ -1,11 +1,11 @@
 # Code Book
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+This is the summary of the `tidy.txt` result.
 
 ## Identifiers
 
-* `subject` - The ID of the test subject
-* `activity` - The type of activity performed when the corresponding measurements were taken
+* `subject` - test subject ID
+* `activity` - these are the measurements taken based on the activity performed by the subject
 
 ## Measurements
 
